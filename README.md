@@ -9,8 +9,8 @@ An automated coin classification and sorting system using a Raspberry Pi, Python
 ### Key Features
 * Automated sorting by **Value**, **Mint Mark**, or **Year** based on user selection.
 * Utilizes the OpenCV library for image preprocessing to detect the coin.
-* Integrates Google's Gemini Vision API for highly accurate, real-time classification.
-* Custom-designed mechanical sorting system using stepper motors.
+* Integrates Google's Gemini for highly accurate classification.
+* Mechanical sorting system using 2 stepper motors.
 * User-friendly interface with an I2C LCD screen and physical buttons for mode selection.
 
 ### Technologies Used
