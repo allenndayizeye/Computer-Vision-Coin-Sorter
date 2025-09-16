@@ -1,7 +1,7 @@
 # Computer-Vision-Coin-Sorter
 An automated coin classification and sorting system using a Raspberry Pi, Python, and OpenCV.
 
-# Computer Vision Coin Sorter
+
 
 [![Project Demo Video](https://img.youtube.com/vi/3zV9kLuA_2Y/maxresdefault.jpg)](https://youtu.be/3zV9kLuA_2Y)
 
